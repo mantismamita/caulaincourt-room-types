@@ -1,0 +1,34 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+.wp-block-cgb-block-caulaincourt-testimonials {
+  background: #bada55;
+  border: 0.2rem solid #292929;
+  color: #292929;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem; }
+
+.caulaincourt-room-types-icon,
+.caulaincourt-room-types-icon-wrap img {
+  height: 30px;
+  width: 30px; }
+
+.caulaincourt-room-types-icon-wrap {
+  padding: .5rem;
+  background: #f1f1f1;
+  min-height: 100px;
+  text-align: center; }
+  .caulaincourt-room-types-icon-wrap .caulaincourt-room-types-icon-label {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 13px;
+    line-height: 1.4em; }

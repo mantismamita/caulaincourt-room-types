@@ -1,0 +1,25 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.caulaincourt-room-types-icon-wrap > img {
+  height: 30px;
+  width: 30px;
+}
+
+.caulaincourt-room-types {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.caulaincourt-room-types-info{
+  margin-right: 30px;
+}
+
+.caulaincourt-room-types-info span {
+  line-height: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}

@@ -1,0 +1,280 @@
+# Copyright (C) 2019 Kirsten Cassidy
+# This file is distributed under the same license as the Caulaincourt Room Types plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Caulaincourt Room Types 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/caulaincourt-room-types\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-03-30T19:54:51+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: caulaincourt_room_types\n"
+
+#: src/blocks/room-details.js:239
+msgid "Add text..."
+msgstr ""
+
+#: src/blocks/room-details.js:255
+msgid "Add price info"
+msgstr ""
+
+#: src/blocks/room-details.js:294
+msgid "caulaincourt-room-types"
+msgstr ""
+
+#: src/blocks/room-details.js:295
+msgid "Room details"
+msgstr ""
+
+#: src/blocks/room-details.js:296
+msgid "icon list"
+msgstr ""
+
+#: src/blocks/room-details.js:48
+msgid "Left"
+msgstr ""
+
+#: src/blocks/room-details.js:49
+msgid "Right"
+msgstr ""
+
+#: src/blocks/room-details.js:64
+msgid "Background Color"
+msgstr ""
+
+#: src/blocks/room-details.js:69
+msgid "Price Info Text Color"
+msgstr ""
+
+#: src/blocks/room-details.js:75
+msgid "Text Color"
+msgstr ""
+
+#: src/blocks/room-details.js:80
+msgid "Alignment"
+msgstr ""
+
+#: src/blocks/room-details.js:81
+msgid "Left or right align text."
+msgstr ""
+
+#: src/blocks/room-meta.js:112
+msgid "Type of bed"
+msgstr ""
+
+#: src/blocks/room-meta.js:116
+msgid "Single bed"
+msgstr ""
+
+#: src/blocks/room-meta.js:117
+msgid "Double bed"
+msgstr ""
+
+#: src/blocks/room-meta.js:118
+msgid "2 Single beds"
+msgstr ""
+
+#: src/blocks/room-meta.js:119
+msgid "3 Single beds"
+msgstr ""
+
+#: src/blocks/room-meta.js:120
+msgid "1 Double bed and 1 Single Bed"
+msgstr ""
+
+#: src/blocks/room-meta.js:121
+msgid "Bunk beds"
+msgstr ""
+
+#: src/blocks/room-meta.js:125
+msgid "List Price in Euros"
+msgstr ""
+
+#: src/blocks/room-meta.js:133
+msgid "Price per"
+msgstr ""
+
+#: src/blocks/room-meta.js:137
+msgid "person"
+msgstr ""
+
+#: src/blocks/room-meta.js:138
+msgid "room"
+msgstr ""
+
+#: src/blocks/room-meta.js:142
+msgid "Select extras (press shift button to select more than one)"
+msgstr ""
+
+#: src/blocks/room-meta.js:147
+msgid "breakfast"
+msgstr ""
+
+#: src/blocks/room-meta.js:147
+msgid "Breakfast included"
+msgstr ""
+
+#: src/blocks/room-meta.js:148
+msgid "air-conditioning"
+msgstr ""
+
+#: src/blocks/room-meta.js:148
+msgid "Air conditioning"
+msgstr ""
+
+#: src/blocks/room-meta.js:149
+msgid "free-wifi"
+msgstr ""
+
+#: src/blocks/room-meta.js:149
+msgid "free WIFI"
+msgstr ""
+
+#: src/blocks/room-meta.js:150
+msgid "hairdryer"
+msgstr ""
+
+#: src/blocks/room-meta.js:151
+msgid "telephone"
+msgstr ""
+
+#: src/blocks/room-meta.js:152
+msgid "television"
+msgstr ""
+
+#: src/blocks/room-meta.js:152
+msgid "televison"
+msgstr ""
+
+#: src/blocks/room-meta.js:153
+msgid "view"
+msgstr ""
+
+#: src/blocks/room-meta.js:153
+msgid "Room with view"
+msgstr ""
+
+#: src/blocks/room-meta.js:154
+msgid "private shower"
+msgstr ""
+
+#: src/blocks/room-meta.js:154
+msgid "Private shower"
+msgstr ""
+
+#: src/blocks/room-meta.js:155
+msgid "private toilet"
+msgstr ""
+
+#: src/blocks/room-meta.js:155
+msgid "Private toilet"
+msgstr ""
+
+#: src/blocks/room-meta.js:156
+msgid "bed linens"
+msgstr ""
+
+#: src/blocks/room-meta.js:156
+msgid "Bed Linens"
+msgstr ""
+
+#: src/blocks/room-meta.js:78
+msgid "Max number of people per room"
+msgstr ""
+
+#: src/blocks/room-meta.js:82
+msgid "max 1 person"
+msgstr ""
+
+#: src/blocks/room-meta.js:83
+msgid "max 2 people"
+msgstr ""
+
+#: src/blocks/room-meta.js:84
+msgid "max 3 people"
+msgstr ""
+
+#: src/blocks/room-meta.js:85
+msgid "max 4 people"
+msgstr ""
+
+#: src/blocks/room-meta.js:86
+msgid "max 5 people"
+msgstr ""
+
+#: src/blocks/room-meta.js:87
+msgid "max 6 people"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Caulaincourt Room Types"
+msgstr ""
+
+#. Description of the plugin
+msgid "Creates room types for the caulaincourt custom theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kirsten Cassidy"
+msgstr ""
+
+#: caulaincourt-room-types.php:60
+#: caulaincourt-room-types.php:71
+msgid "Room Types"
+msgstr ""
+
+#: caulaincourt-room-types.php:61
+msgid "Room Type"
+msgstr ""
+
+#: caulaincourt-room-types.php:62
+msgid "Add New"
+msgstr ""
+
+#: caulaincourt-room-types.php:63
+msgid "Add New Room Type"
+msgstr ""
+
+#: caulaincourt-room-types.php:64
+msgid "Edit Room Type"
+msgstr ""
+
+#: caulaincourt-room-types.php:65
+msgid "New Room Type"
+msgstr ""
+
+#: caulaincourt-room-types.php:66
+msgid "View Room Type"
+msgstr ""
+
+#: caulaincourt-room-types.php:67
+msgid "Search Room Types"
+msgstr ""
+
+#: caulaincourt-room-types.php:68
+msgid "No room types found"
+msgstr ""
+
+#: caulaincourt-room-types.php:69
+msgid "No room types found in Trash"
+msgstr ""
+
+#: caulaincourt-room-types.php:70
+msgid "Parent Room Type:"
+msgstr ""
+
+#: caulaincourt-room-types.php:220
+msgid "Special Features"
+msgstr ""
+
+#: caulaincourt-room-types.php:252
+msgid " people per room"
+msgstr ""
+
+#: caulaincourt-room-types.php:264
+msgid "<span class=\"roomMeta-priceLabel\">Listed price:</span><span class=\"roomMeta-priceAmount\"> %d€</span><span class=\"roomMeta-pricePer\"> per %s</span>"
+msgstr ""
